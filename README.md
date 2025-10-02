@@ -136,7 +136,6 @@ Your system supports **two types of deployment / interface / testing**:
    ```bash
    git clone https://github.com/AdityaAnanta123/System-Recommendation-Movies-Using-MLP.git
    cd System-Recommendation-Movies-Using-MLP
-````
 
 2. **Install dependencies**
 
@@ -171,4 +170,3 @@ Your system supports **two types of deployment / interface / testing**:
 
    * Visit `http://localhost:5000/recommend` (or whatever route)
    * Or open Streamlit local server (default `http://localhost:8501`)
----
