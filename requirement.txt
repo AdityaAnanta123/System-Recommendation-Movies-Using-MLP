@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+sentence-transformers
+tqdm
+joblib
+streamlit
+requests
+python-dotenv
+nltk
+tensorflow>=2.10
